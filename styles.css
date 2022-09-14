@@ -73,6 +73,9 @@ body {
   color: white;
   text-align: center;
   padding: 2rem;
+  margin-top: 300px;
+  margin-left: 550px;
+
 }
 
 #show-time {
@@ -181,7 +184,6 @@ button {
   width: 100%;
   position: fixed;
   top: 0;
-
 }
 
 @media only screen and (max-width: 700px) {
