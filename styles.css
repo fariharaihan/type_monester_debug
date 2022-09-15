@@ -73,7 +73,7 @@ body {
   color: white;
   text-align: center;
   padding: 2rem;
-  margin-top: 300px;
+  margin-top: 250px;
   margin-left: 550px;
 
 }
@@ -211,5 +211,10 @@ button {
 
   .card {
     display: block;
+    margin-bottom: 20px;
+  }
+
+  .time-error {
+    margin-bottom: 15px;
   }
 }
