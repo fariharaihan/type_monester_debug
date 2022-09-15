@@ -150,6 +150,10 @@ button {
   cursor: pointer;
 }
 
+.blog-btn {
+  color: white;
+}
+
 #histories {
   display: flex;
   flex-wrap: wrap;
